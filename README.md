@@ -1,1 +1,1 @@
-Guia de instalación de Moodle 
+Guía de instalación de Moodle 
